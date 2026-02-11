@@ -30,3 +30,5 @@ else:
         print("You win")
     elif(computer == -1 and you == 0):
         print("You loose")
+    else:
+        print("Something went wrong!")
