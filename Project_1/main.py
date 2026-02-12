@@ -8,7 +8,7 @@ sissor = -1
 '''
 
 computer = random.choice([-1, 0, 1])
-youStr = input("Enter your number : ")
+youStr = input("Enter your choice : ")
 youDict = {"r": 1, "p": 0, "s": -1}
 reverseDict = {1: "rock", 0: "paper", -1: "sissor"}
 you = youDict[youStr]
