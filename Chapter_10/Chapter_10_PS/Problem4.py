@@ -14,3 +14,5 @@ name = input("Enter your name : ")
 number = int(input("Enter your number : "))
 Calculator.greet(name)
 details = Calculator(number)
+
+# Use static method in problem 2 to greet user
